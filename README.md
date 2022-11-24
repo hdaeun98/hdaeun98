@@ -1,5 +1,5 @@
-- 🥳 Daeun Hwang
-- 🌱 Information & Interaction Design @ Yonsei University
+- ✨ Daeun Hwang
+- 📝 Information & Interaction Design @ Yonsei University
 - 💻 Educational Technology, HCI, media art, music
 
 
