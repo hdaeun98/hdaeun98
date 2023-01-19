@@ -6,7 +6,7 @@ I'm a educational technology enthusiast, researcher, artist, musician and more!
 Visit my website to see more ⬇️
 </div>
 
-<p><a href="http://hdaeun98.github.io/daeunhwang"></a><img src="https://github.com/hdaeun98/hdaeun98/blob/main/daeunswebsite.png" alt="Daeun's personal website"></p>
+<p><a href="http://hdaeun98.github.io/daeunhwang"></a><img src="https://github.com/hdaeun98/hdaeun98/blob/main/daeunswebsite.png" alt="Daeun's personal website" a href="http://hdaeun98.github.io/daeunhwang"></a></p>
 
 <h3>Tech</h3>
 
