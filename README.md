@@ -4,9 +4,9 @@ I'm a educational technology enthusiast, researcher, artist, musician and more!
 
 <div align = center>
 Visit my website to see more ⬇️
+http://hdaeun98.github.io/daeunhwang
 </div>
 
-http://hdaeun98.github.io/daeunhwang
 
 <h3>Tech</h3>
 
