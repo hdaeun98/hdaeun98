@@ -6,7 +6,7 @@ I'm a educational technology enthusiast, researcher, artist, musician and more!
 Visit my website to see more ⬇️
 </div>
 <div align = center>
-http://hdaeun98.github.io/daeunhwang
+http://daeunhwang.com
 </div>
 
 
