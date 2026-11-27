@@ -5,8 +5,10 @@ I'm a educational technology enthusiast, researcher, artist, musician and more!
 <div align = center>
 Visit my website to see more ⬇️
 </div>
-<div align = center>
-![hdaeun98.github.io/portfolio](https://hdaeun98.github.io/portfolio)
+<div align="center">
+
+[hdaeun98.github.io/portfolio](https://hdaeun98.github.io/portfolio)
+
 </div>
 
 
@@ -28,10 +30,3 @@ Visit my website to see more ⬇️
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
-
-
-<!---
-hdaeun98/hdaeun98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
